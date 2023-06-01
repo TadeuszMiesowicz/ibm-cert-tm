@@ -1,0 +1,13 @@
+Displaying the names of the unique launch sites in the space mission
+Displaying 5 records where launch sites begin with the string 'CCA'
+Displaying the total payload mass carried by boosters launched by NASA (CRS)
+Displaying average payload mass carried by booster version F9 v1.1
+Listing the date when the first successful landing outcome in ground pad was achieved
+Listing the names of the boosters which have success in drone ship and have payload mass
+greater than 4000 but less than 6000
+Listing the total number of successful and failure mission outcomes
+Listing the names of the booster_versions which have carried the maximum payload mass
+Listing the failed landing_outcomes in drone ship, their booster versions, and launch site
+names for in year 2015
+Ranking the count of landing outcomes (such as Failure (drone ship) or Success (ground
+pad)) between the date 2010-06-04 and 2017-03-20, in descending order
